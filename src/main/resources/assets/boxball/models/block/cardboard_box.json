@@ -1,0 +1,12 @@
+{
+    "parent":
+    "block/cube_all",
+
+    "textures":
+    {
+
+        "all":
+        "boxball:block/cardboard_box"
+
+    }
+}

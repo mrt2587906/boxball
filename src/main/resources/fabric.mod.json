@@ -1,0 +1,58 @@
+{
+    "schemaVersion":1,
+
+
+    "id":"boxball",
+
+
+    "version":"2026072301",
+
+
+    "name":"BoxBall Lumi",
+
+
+    "description":
+    "Lumi cute companion creature mod",
+
+
+    "authors":[
+        "WTI"
+    ],
+
+
+    "environment":"*",
+
+
+    "entrypoints":{
+
+
+        "main":[
+            "com.tw.wti.boxball.BoxBallMod"
+        ],
+
+
+        "client":[
+            "com.tw.wti.boxball.client.BoxBallClient"
+        ]
+
+    },
+
+
+    "depends":{
+
+
+        "fabricloader":
+        ">=0.15.0",
+
+
+        "fabric":
+        "*",
+
+
+        "minecraft":
+        "1.20.4"
+
+
+    }
+
+}

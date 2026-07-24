@@ -1,0 +1,45 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+
+authors="${mod_authors}"
+
+description='''
+Verity Companion Mod
+
+A cute floating companion that jumps out of a cardboard box,
+follows the player, and interacts with the Minecraft world.
+
+Project: BoxBall
+'''
+
+logoFile="icon.png"
+
+displayURL="https://github.com/wti/BoxBall"
+
+issueTrackerURL="https://github.com/wti/BoxBall/issues"
+
+credits="Powered by Minecraft Forge"
+
+displayTest="MATCH_VERSION"
+
+[[dependencies.${mod_id}]]
+
+modId="forge"
+mandatory=true
+versionRange="${forge_version_range}"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+
+modId="minecraft"
+mandatory=true
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"

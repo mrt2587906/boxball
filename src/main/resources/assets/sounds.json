@@ -1,0 +1,38 @@
+{
+
+    "lumi_idle":
+    {
+        "sounds":
+        [
+            "boxball:lumi_idle"
+        ]
+    },
+
+
+    "lumi_happy":
+    {
+        "sounds":
+        [
+            "boxball:lumi_happy"
+        ]
+    },
+
+
+    "lumi_sleep":
+    {
+        "sounds":
+        [
+            "boxball:lumi_sleep"
+        ]
+    },
+
+
+    "lumi_hurt":
+    {
+        "sounds":
+        [
+            "boxball:lumi_hurt"
+        ]
+    }
+
+}

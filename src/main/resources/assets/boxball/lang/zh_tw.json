@@ -1,0 +1,15 @@
+{
+    "item.boxball.lumi_spawn": "Lumi 生成蛋",
+
+    "item.boxball.lumi_ball": "Lumi 玩球",
+
+    "block.boxball.cardboard_box": "Lumi 紙箱",
+
+
+    "entity.boxball.lumi": "Lumi",
+
+    "entity.boxball.cardboard_box": "紙箱",
+
+
+    "itemGroup.boxball": "BoxBall Lumi"
+}
