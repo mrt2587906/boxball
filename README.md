@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-"# wti" 
-=======
-# boxball
->>>>>>> 5691c81aa011c653ec2feaa6126c430b91e1ea85
+ChatGPT Lumi AI Minecraft Mode 1.20.4
+特色：
+從箱子蹦出來的一隻貓咪Lumi球
+可以與牠語音溝通
+目前使用網路串連openai
